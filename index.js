@@ -1,4 +1,4 @@
-const port = process.env.PORT || UDP:58936;
+const port = process.env.PORT || 58936;
 const mineflayer = require('mineflayer')
 const cmd = require('mineflayer-cmd').plugin
 const fs = require('fs');
